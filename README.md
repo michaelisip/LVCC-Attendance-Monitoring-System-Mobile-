@@ -3,14 +3,15 @@
 > **NOTE: This project is still under development so most of the pages are not user friendly. I plan to do finish this project for my capstone project.**
 
 
-> **TECHNOLOGIES USED**
+> ### **TECHNOLOGIES USED**
 * IONIC
 * FIREBASE
 
 > ### **LOGIN PAGES**
 
-### *"IOS"*
-![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login.PNG) 
+### *"IOS"* 
+![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login.PNG) ### *"ANDROID"* ![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login-android.PNG) ###*"WINDOWS"*
+ ![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login-windows.PNG)
 
 > ### **HOMEPAGE**
 
