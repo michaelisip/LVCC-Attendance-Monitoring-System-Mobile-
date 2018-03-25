@@ -11,8 +11,10 @@
 
 ### *"IOS"* 
 ![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login.PNG)
-### *"ANDROID"* ![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login-android.PNG)
-### *"WINDOWS"* ![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login-windows.PNG)
+### *"ANDROID"* 
+![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login-android.PNG)
+### *"WINDOWS"* 
+![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login-windows.PNG)
 
 > ### **HOMEPAGE**
 
