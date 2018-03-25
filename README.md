@@ -1,10 +1,9 @@
 # LVCC Mobile Attendance
 
-----------
 > **NOTE: This project is still under development so most of the pages are not user friendly. I plan to do finish this project for my capstone project.**
-----------
 
-> TECHNOLOGIES USED
+
+> **TECHNOLOGIES USED**
 * IONIC
 * FIREBASE
 
