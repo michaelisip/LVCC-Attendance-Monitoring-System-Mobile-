@@ -7,6 +7,8 @@
 * IONIC
 * FIREBASE
 
+## **PAGES**
+
 > ### **LOGIN PAGES**
 
 ### *"IOS"* 
@@ -16,6 +18,8 @@
 ### *"WINDOWS"* 
 ![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login-windows.PNG)
 
+
+--------------
 > ### **HOMEPAGE**
 
 ![HomePage](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/Homepage.PNG) ![Sidebar](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/sidebar.PNG)
