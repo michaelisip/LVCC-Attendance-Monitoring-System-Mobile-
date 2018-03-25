@@ -1,8 +1,12 @@
 # LVCC Mobile Attendance
 
 ----------
-**NOTE: This project is still under development so most of the pages are not user friendly. I plan to do finish this project for my capstone project.**
+> **NOTE: This project is still under development so most of the pages are not user friendly. I plan to do finish this project for my capstone project.**
 ----------
+
+> TECHNOLOGIES USED
+* IONIC
+* FIREBASE
 
 > ### **LOGIN PAGES**
 
@@ -29,7 +33,7 @@
 
 ![Add Subjects](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/addsubject.PNG) 
 
-> ### **SET ATTENDANCE **
+> ### **SET ATTENDANCE**
 
 ![Set Attendance](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/setattendance.PNG) ![Set Attendance](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/setattendance2.PNG) 
 
