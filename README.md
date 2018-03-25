@@ -1,6 +1,6 @@
 # LVCC Mobile Attendance
 
-Note: This project is still under development so most of the pages are not user friendly. I plan to do finish this project for my capstone project.
+> **NOTE: This project is still under development so most of the pages are not user friendly. I plan to do finish this project for my capstone project. **
 
 ## Login Pages on different platforms
 
