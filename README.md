@@ -9,11 +9,11 @@
 ### *"IOS"*
 ![Login Page IOS](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/login.PNG) 
 
-> **HOMEPAGE**
+> ### **HOMEPAGE**
 
 ![HomePage](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/Homepage.PNG) ![Sidebar](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/sidebar.PNG)
 
-> *STUDENTS LIST*
+### > *STUDENTS LIST*
 
 ![Students List](https://github.com/mj-isip23/LVCC-Mobile-Attendance/blob/master/screenshots/studentslist.PNG) 
 
