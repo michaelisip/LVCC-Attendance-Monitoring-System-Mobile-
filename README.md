@@ -1,6 +1,6 @@
 # LVCC Mobile Attendance
 
-> **NOTE: This project is still under development so most of the pages are not user friendly. I plan to do finish this project for my capstone project.**
+> **NOTE: This project is still under development so most of the pages are not user friendly. I plan to finish it as our capstone project.**
 
 > ### **TECHNOLOGIES USED**
 * IONIC
